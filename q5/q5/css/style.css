@@ -93,7 +93,7 @@
   grid-template-columns: 1fr 1fr 1fr;
   gap: 10px;
   margin-top: 20px;
-  grid-template-rows: 200px 200px;
+  grid-template-rows: 200px auto 200px;
 }
 
 .red--box {
